@@ -1,0 +1,14 @@
+{
+  "name": "agenday",
+  "version": "1.0.0",
+  "description": "Projeto de uma agenda web",
+  "main": "App.js",
+  "scripts": {
+    "start": "node App"
+  },
+  "author": "michaelthierry",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
