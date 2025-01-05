@@ -4,11 +4,14 @@
   "description": "Projeto de uma agenda web",
   "main": "App.js",
   "scripts": {
-    "start": "node App"
+    "start": "node App",
+    "dev": "nodemon App"
   },
   "author": "michaelthierry",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.21.2"
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
   }
 }
